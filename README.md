@@ -1,8 +1,7 @@
 <!-- Animated Header with 3D Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=61DAFB&background=0D1117&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Mia!;Front-End+Wizard;Building+Immersive+Web+Worlds;Creative+Developer+%26+Designer" alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=61DAFB&background=0D1117&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Mia!;Front-End+Developer;Crafting+Dynamic+Web+Experiences;Creative+Developer+%26+Designer" alt="Typing SVG" />  </a>
   
   <!-- Animated Wave Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a86ff,100:ff006e&height=180&section=header&text=Mia%20-%20Front-End%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32" width="100%" alt="Header Banner" />
