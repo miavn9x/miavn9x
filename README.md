@@ -227,10 +227,7 @@
   GitHub Stats
 </h2>
 
-<!-- GitHub Profile Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miavn9x&theme=radical&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" />
-</p>
+
 
 <!-- Main Stats and Top Languages -->
 <div align="center">
@@ -242,7 +239,7 @@
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=miavn9x&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=miavn9x&theme=radical&border_radius=10" alt="" />
 </p>
 
 <!-- Activity Graph -->
