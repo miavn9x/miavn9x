@@ -139,83 +139,79 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">E-Commerce Platform</h3>
+        <h3 align="center">SimHubGlobal</h3>
         <p align="center">
-          <a href="https://github.com/tungmia9x/ecommerce-project" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="100%" alt="E-Commerce Project"/>
+          <a href="https://github.com/tungmia9x/simhubglobal" target="_blank">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE5MzU0NzEyM2ZiNDM4YzQ2ZTA3ZDA5YzI2NTc0ZGZiM2I4MWFmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKz2b8nL8z6Z7GM/giphy.gif" width="100%" alt="SimHubGlobal E-commerce"/>
           </a>
           <p align="center">
-            A full-featured e-commerce platform with product catalog, shopping cart, and secure checkout system
+            A comprehensive e-commerce platform for selling SIM cards with a user-friendly interface and secure payment system
           </p>
           <p align="center">
-            <a href="https://github.com/tungmia9x/ecommerce-project" target="_blank">
+            <a href="https://github.com/tungmia9x/simhubglobal" target="_blank">
               <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
             </a>
-            <a href="https://ecommerce-demo.com" target="_blank">
+            <a href="https://simhubglobal.com" target="_blank">
               <img src="https://img.shields.io/badge/Live-FF2D55?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
             </a>
           </p>
-        </p>
-      </td>
+        </td>
       <td width="50%">
-        <h3 align="center">Interactive Portfolio</h3>
+        <h3 align="center">WakiHub</h3>
         <p align="center">
-          <a href="https://github.com/tungmia9x/portfolio-project" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238353530-9d8b8abf-8b4e-46e7-a3b1-eb69ff3a8d94.gif" width="100%" alt="Portfolio Project"/>
+          <a href="https://github.com/tungmia9x/wakihub" target="_blank">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE5MzU0NzEyM2ZiNDM4YzQ2ZTA3ZDA5YzI2NTc0ZGZiM2I4MWFmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKW6G3b2gXj7W6o/giphy.gif" width="100%" alt="WakiHub Enterprise"/>
           </a>
           <p align="center">
-            A modern portfolio website with 3D elements, smooth animations and responsive design
+            A professional enterprise website showcasing business services with modern design and seamless functionality
           </p>
           <p align="center">
-            <a href="https://github.com/tungmia9x/portfolio-project" target="_blank">
+            <a href="https://github.com/tungmia9x/wakihub" target="_blank">
               <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
             </a>
-            <a href="https://portfolio-demo.com" target="_blank">
+            <a href="https://wakihub.com" target="_blank">
               <img src="https://img.shields.io/badge/Live-FF2D55?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
             </a>
           </p>
-        </p>
-      </td>
+        </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">Task Management Dashboard</h3>
+        <h3 align="center">WFourTech</h3>
         <p align="center">
-          <a href="https://github.com/tungmia9x/task-manager" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238352626-94c99a6c-debb-4a92-bf40-ad58d6c5e0a7.gif" width="100%" alt="Task Manager"/>
+          <a href="https://github.com/tungmia9x/wfourtech" target="_blank">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE5MzU0NzEyM2ZiNDM4YzQ2ZTA3ZDA5YzI2NTc0ZGZiM2I4MWFmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYC0LadcZ6sCqnC/giphy.gif" width="100%" alt="WFourTech Design"/>
           </a>
           <p align="center">
-            A productivity app with drag-and-drop interface, team collaboration and real-time updates
+            A creative design-focused website showcasing innovative web design solutions and interactive elements
           </p>
           <p align="center">
-            <a href="https://github.com/tungmia9x/task-manager" target="_blank">
+            <a href="https://github.com/tungmia9x/wfourtech" target="_blank">
               <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
             </a>
-            <a href="https://task-manager-demo.com" target="_blank">
+            <a href="https://test.wfourtech.vn" target="_blank">
               <img src="https://img.shields.io/badge/Live-FF2D55?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
             </a>
           </p>
-        </p>
-      </td>
+        </td>
       <td width="50%">
-        <h3 align="center">Weather Visualization App</h3>
+        <h3 align="center">Vuabanhrang</h3>
         <p align="center">
-          <a href="https://github.com/tungmia9x/weather-app" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238353529-35968b50-160c-4f7a-a99f-667c5350d7b6.gif" width="100%" alt="Weather App"/>
+          <a href="https://github.com/tungmia9x/vuabanhrang" target="_blank">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE5MzU0NzEyM2ZiNDM4YzQ2ZTA3ZDA5YzI2NTc0ZGZiM2I4MWFmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8qGirK2HzGM/giphy.gif" width="100%" alt="Vuabanhrang E-commerce"/>
           </a>
           <p align="center">
-            A weather dashboard with location search, forecasts, and beautiful interactive weather visualizations
+            An e-commerce platform for selling products with a clean, responsive design and intuitive user experience
           </p>
           <p align="center">
-            <a href="https://github.com/tungmia9x/weather-app" target="_blank">
+            <a href="https://github.com/tungmia9x/vuabanhrang" target="_blank">
               <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
             </a>
-            <a href="https://weather-app-demo.com" target="_blank">
+            <a href="https://vuabanhrang.jb" target="_blank">
               <img src="https://img.shields.io/badge/Live-FF2D55?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
             </a>
           </p>
-        </p>
-      </td>
+        </td>
     </tr>
   </table>
 </div>
@@ -231,24 +227,27 @@
   GitHub Stats
 </h2>
 
-<!-- Animated GitHub Stats -->
+<!-- GitHub Profile Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tungmia9x&theme=radical&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=miavn9x&theme=radical&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" />
 </p>
 
+<!-- Main Stats and Top Languages -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tungmia9x&show_icons=true&theme=radical&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungmia9x&layout=compact&langs_count=7&theme=radical&border_radius=10" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miavn9x&show_icons=true&theme=radical&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miavn9x&layout=compact&langs_count=7&theme=radical&border_radius=10" alt="Most Used Languages" />
 </div>
 
 <br>
 
+<!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tungmia9x&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=miavn9x&theme=radical&border_radius=10" alt="GitHub Streak" />
 </p>
 
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tungmia9x&theme=radical&bg_color=20232a&hide_border=true" width="98%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miavn9x&theme=radical&bg_color=20232a&hide_border=true" width="98%" alt="Activity Graph" />
 </p>
 
 <!-- Code Showcase Section -->
