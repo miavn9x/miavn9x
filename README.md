@@ -60,10 +60,20 @@
 <br clear="both">
 
 <!-- Animated Skills Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZiMzIzMzRkMzM0ZDRjMzQzNDM0MzQzNDM0MzQzNDM0MzQzNDM0MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> 
+<h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 12px; font-size: 1.25rem; font-weight: 600;">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZiMzIzMzRkMzM0ZDRjMzQzNDM0MzQzNDM0MzQzNDM0MzQzNDM0MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QssGEmpkyEOhBCb7e1/giphy.gif" 
+    width="40" 
+    alt="sparkle"
+  />
   Tech Stack
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZiMzIzMzRkMzM0ZDRjMzQzNDM0MzQzNDM0MzQzNDM0MzQzNDM0MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QssGEmpkyEOhBCb7e1/giphy.gif" 
+    width="40" 
+    alt="sparkle"
+  />
 </h2>
+
 
 <!-- Animated Skill Bars -->
 <div align="center">
@@ -151,38 +161,57 @@
             <a href="https://github.com/tungmia9x/ecommerce-project" target="_blank">
               <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
             </a>
-            <a href="https://ecommerce-demo.com" target="_blank">
+            <a href="https://simhubglobal.com/" target="_blank">
               <img src="https://img.shields.io/badge/Live-FF2D55?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
             </a>
           </p>
         </p>
       </td>
-      <td width="50%">
-        <h3 align="center">Interactive Portfolio</h3>
-        <p align="center">
-          <a href="https://github.com/tungmia9x/portfolio-project" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238353530-9d8b8abf-8b4e-46e7-a3b1-eb69ff3a8d94.gif" width="100%" alt="Portfolio Project"/>
-          </a>
-          <p align="center">
-            A modern portfolio website with 3D elements, smooth animations and responsive design
-          </p>
-          <p align="center">
-            <a href="https://github.com/tungmia9x/portfolio-project" target="_blank">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-            </a>
-            <a href="https://portfolio-demo.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-FF2D55?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-            </a>
-          </p>
-        </p>
-      </td>
+     <td width="50%">
+  <h3 align="center">WakiHub — Website Doanh Nghiệp (Next.js)</h3>
+
+  <div align="center">
+    <a href="https://wakihub.com" target="_blank" rel="noopener noreferrer">
+      <!-- Đặt ảnh screenshot trang ở đây -->
+      <img
+        src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+        alt="WakiHub — Website doanh nghiệp Next.js"
+        width="75%"
+        loading="lazy"
+        referrerpolicy="no-referrer"
+        style="border-radius: 8px"
+      />
+    </a>
+  </div>
+
+  <div align="center" style="margin-top: 8px;">
+    WakiHub là website doanh nghiệp xây dựng bằng Next.js, tối ưu SEO/tốc độ,
+    UI hiện đại, tương thích đa thiết bị và dễ mở rộng tính năng.
+  </div>
+
+  <div align="center" style="margin-top: 10px;">
+    <a href="https://wakihub.com" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://img.shields.io/badge/Live-FF2D55?style=for-the-badge&logo=vercel&logoColor=white"
+        alt="Live Demo"
+      />
+    </a>
+    <a href="https://wakihub.com" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://img.shields.io/badge/Website_Doanh_Nghiệp-0A66C2?style=for-the-badge&logo=next.js&logoColor=white"
+        alt="Website Doanh Nghiệp"
+      />
+    </a>
+  </div>
+</td>
+
     </tr>
     <tr>
-      <td width="50%">
+      <!-- <td width="50%">
         <h3 align="center">Task Management Dashboard</h3>
         <p align="center">
           <a href="https://github.com/tungmia9x/task-manager" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238352626-94c99a6c-debb-4a92-bf40-ad58d6c5e0a7.gif" width="100%" alt="Task Manager"/>
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZiMzIzMzRkMzM0ZDRjMzQzNDM0MzQzNDM0MzQzNDM0MzQzNDM0MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" alt="Task Manager"/>
           </a>
           <p align="center">
             A productivity app with drag-and-drop interface, team collaboration and real-time updates
@@ -215,7 +244,7 @@
             </a>
           </p>
         </p>
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
@@ -226,15 +255,18 @@
 </p>
 
 <!-- GitHub Stats Section with Animated Cards -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZiMzIzMzRkMzM0ZDRjMzQzNDM0MzQzNDM0MzQzNDM0MzQzNDM0MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/juua9i2c2fA0AIp2iq/giphy.gif" width="40"> 
+<h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZiMzIzMzRkMzM0ZDRjMzQzNDM0MzQzNDM0MzQzNDM0MzQzNDM0MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/juua9i2c2fA0AIp2iq/giphy.gif" 
+    width="40" 
+    alt="stats-icon"
+  />
   GitHub Stats
 </h2>
 
+
 <!-- Animated GitHub Stats -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tungmia9x&theme=radical&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" />
-</p>
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tungmia9x&show_icons=true&theme=radical&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -252,7 +284,7 @@
 </p>
 
 <!-- Code Showcase Section -->
-<h2 align="center">
+<h2 align="center"style="display: flex; align-items: center; justify-content: center; gap: 8px;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZiMzIzMzRkMzM0ZDRjMzQzNDM0MzQzNDM0MzQzNDM0MzQzNDM0MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HscDLzkO8EOTmgkhQP/giphy.gif" width="40"> 
   Code Showcase
 </h2>
