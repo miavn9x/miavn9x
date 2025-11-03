@@ -189,7 +189,7 @@
             <a href="https://github.com/tungmia9x/wfourtech" target="_blank">
               <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
             </a>
-            <a href="https://test.wfourtech.vn" target="_blank">
+            <a href="https://wfourtech.vn" target="_blank">
               <img src="https://img.shields.io/badge/Live-FF2D55?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
             </a>
           </p>
