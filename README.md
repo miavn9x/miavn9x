@@ -250,7 +250,7 @@
 <!-- Code Showcase Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZiMzIzMzRkMzM0ZDRjMzQzNDM0MzQzNDM0MzQzNDM0MzQzNDM0MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HscDLzkO8EOTmgkhQP/giphy.gif" width="40"> 
-  Code Showcase
+  Projects 
 </h2>
 
 <!-- Animated Code Snippet -->
