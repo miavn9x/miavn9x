@@ -260,7 +260,9 @@
 
 <!-- Visitor Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tungmia9x&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+<a href="https://mia9x.id.vn" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Visit-mia9x.id.vn-brightgreen?style=for-the-badge&logo=web" alt="Open mia9x.id.vn" />
+</a>
 </div>
 
 <!-- Footer with Animated Wave -->
